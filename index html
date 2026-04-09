@@ -5,7 +5,7 @@
     <title>URL Shortener - Version 1</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
+ 
 <body>
     <div class="container">
         <h1>Multi-Link Shortener</h1>
